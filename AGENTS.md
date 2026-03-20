@@ -144,5 +144,4 @@ A change is done when all are true:
 3. Contracts are synced across db/shared/server/ui
 4. Docs updated when behavior or commands change
 
-## short description of the project 
-AI Multi-agent orchestration for automating market research, product design, and SEO copywriting for alwaystous Shopee Store.
+
